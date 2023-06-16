@@ -6,6 +6,7 @@ import HeaderSocial from './Headersocials'
 
 const Header = () => {
   return (
+    <section id='home'>
     <header>
       <div className='container header__container'>  {/*bim - naming class method*/}
         <h5>Hello I'm</h5>
@@ -22,7 +23,8 @@ const Header = () => {
       
       </div>
 
-    </header>  
+    </header> 
+    </section> 
   )
 }
 
