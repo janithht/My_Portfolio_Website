@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css'
 import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
+import {HiAcademicCap} from 'react-icons/hi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 function About() {
@@ -21,15 +21,16 @@ function About() {
         <div className='about__content'>
           <div className='about__cards'>
             <article className='about__card'>
-              <FaAward className = 'about__icon' />              
-              <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <HiAcademicCap className = 'about__icon' />              
+              <h5>BSc (Hons) in<br />Information Technology<br />
+University of Moratuwa
+</h5>        
             </article>
 
             <article className='about__card'>
-              <FiUsers className = 'about__icon' />              
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <FaAward className = 'about__icon' />              
+              <h5>Dean's List Recognition</h5>
+              <small>Current Overall GPA : 3.85</small>
             </article>
 
             <article className='about__card'>
