@@ -1,11 +1,8 @@
 import React from 'react'
 import './Portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/x1.png'
+import IMG2 from '../../assets/x2.png'
+import IMG3 from '../../assets/x3.png'
 
 const Portfolio = () => {
   return (
@@ -18,10 +15,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>User Login System for Mobile Apps</h3>
           <div className='portfolio__item-cta'>
-            <a href='https://github.com/janithht' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href='https://dribbble.com/alien_pixels'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht/User-SignUp-SignIn' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -29,10 +26,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Photo Gallery using AWS S3 Services</h3>
           <div className='portfolio__item-cta'>
-            <a href='https://github.com/janithht' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href='https://dribbble.com/alien_pixels'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht/AWS-S3-Gallery' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -40,43 +37,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Company Trash Roboto</h3>
           <div className='portfolio__item-cta'>
-            <a href='https://github.com/janithht' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href='https://dribbble.com/alien_pixels'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG4} alt="" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className='portfolio__item-cta'>
-            <a href='https://github.com/janithht' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href='https://dribbble.com/alien_pixels'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG5} alt="" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className='portfolio__item-cta'>
-            <a href='https://github.com/janithht' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href='https://dribbble.com/alien_pixels'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG6} alt="" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className='portfolio__item-cta'>
-            <a href='https://github.com/janithht' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href='https://dribbble.com/alien_pixels'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht/HardwareProject_TrashRobot' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
       </div>

@@ -21,36 +21,36 @@ function Experience() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
+              <h4>CSS</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
+              <h4>JavaScript</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+              <h4>React js</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+              <h4>Flutter</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+              <h4>Version Control: Git</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
@@ -64,36 +64,36 @@ function Experience() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
+              <h4>Node.js</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Django</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>MySQL</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+              <h4>MongoDB</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-              <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-              <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+              <h4>Other: AWS Services</h4>
+                <small className='text-light'>Basic</small>
               </div>
             </article>
           </div>

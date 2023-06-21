@@ -40,8 +40,7 @@ function About() {
           </div>
 
           <p>
-          Atoms of radioactive elements can split. According to Albert Einstein, mass and energy are interchangeable under certain circumstances. When atoms split, the process is called nuclear fission. In this case, a small amount of mass is converted into energy. Thus the energy released cannot do much damage. However, several subatomic particles called neutrons are also emitted during this process.
-          </p>
+          As an IT undergraduate, I am passionate about software engineering and dedicated to expanding my knowledge and skills in the field. With a strong foundation in programming languages and problem-solving, I am eager to contribute to innovative projects and gain real-world experience through a software engineering internship.          </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
 
