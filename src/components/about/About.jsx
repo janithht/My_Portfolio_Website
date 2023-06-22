@@ -36,7 +36,7 @@ University of Moratuwa
             <article className='about__card'>
               <VscFolderLibrary className = 'about__icon' />              
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>50+ Completed</small>
             </article>
           </div>
 
