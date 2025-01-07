@@ -6,7 +6,10 @@ import {IoLogoTwitter} from 'react-icons/io'
 function Footer() {
   return (
     <footer>
-      <a href='#' className='footer__logo'></a>
+      <button className="footer__logo" onClick={() => window.scrollTo(0, 0)} aria-label="Back to homepage">
+    <img src="/path-to-logo.png" alt="Company Logo" />
+</button>
+
 
       <ul className='permalinks'>
         <li><a href='#home'>Home</a></li>
