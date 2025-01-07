@@ -22,7 +22,7 @@ const Portfolio = () => {
           <h4>BotBeam</h4>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/janithht/BotBeam' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -34,7 +34,7 @@ const Portfolio = () => {
           <h4>GoStreamBalancer</h4>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/janithht/GoStreamBalancer' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -45,7 +45,7 @@ const Portfolio = () => {
           <h3>Serenity BDD Cucumber Testing</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/janithht/SerenityBDD_Cucumber' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
       </div>
@@ -58,7 +58,7 @@ const Portfolio = () => {
           <h3>User Login System for Mobile Apps</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/janithht/User-SignUp-SignIn' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -69,7 +69,7 @@ const Portfolio = () => {
           <h3>Photo Gallery using AWS S3 Services</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/janithht/AWS-S3-Gallery' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -80,7 +80,7 @@ const Portfolio = () => {
           <h3>Company Trash Roboto</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/janithht/HardwareProject_TrashRobot' className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href='https://github.com/janithht'className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
       </div>
