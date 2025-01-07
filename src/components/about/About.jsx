@@ -25,7 +25,7 @@ function About() {
               <h4>BSc (Hons) in Information Technology<br />
 University of Moratuwa
 </h4>        
-            </article>
+            </article> //change
 
             <article className='about__card'>
               <FaAward className = 'about__icon' />              
