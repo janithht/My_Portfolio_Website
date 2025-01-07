@@ -3,12 +3,52 @@ import './Portfolio.css'
 import IMG1 from '../../assets/x1.png'
 import IMG2 from '../../assets/x2.png'
 import IMG3 from '../../assets/x3.png'
+import IMG4 from '../../assets/x4.png'
+import IMG5 from '../../assets/x5.png'
+import IMG6 from '../../assets/x6.jpg'
 
 const Portfolio = () => {
   return (
     <section id='portfolio'>
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
+
+      <div className='container portfolio__container'>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG4} alt="" />
+          </div>
+          <h3>Automated GitHub PR Commenting BOT</h3>
+          <h4>BotBeam</h4>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/janithht/BotBeam' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
+        </article>
+
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG5} alt="" />
+          </div>
+          <h3>TCP|UDP Load Balancer</h3>
+          <h4>GoStreamBalancer</h4>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/janithht/GoStreamBalancer' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
+        </article>
+
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>Serenity BDD Cucumber Testing</h3>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/janithht/SerenityBDD_Cucumber' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href=''className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
+        </article>
+      </div>
 
       <div className='container portfolio__container'>
         <article className='portfolio__item'>

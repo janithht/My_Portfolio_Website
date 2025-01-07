@@ -22,26 +22,27 @@ function About() {
           <div className='about__cards'>
             <article className='about__card'>
               <HiAcademicCap className = 'about__icon' />              
-              <h5>BSc (Hons) in<br />Information Technology<br />
+              <h4>BSc (Hons) in Information Technology<br />
 University of Moratuwa
-</h5>        
+</h4>        
             </article>
 
             <article className='about__card'>
               <FaAward className = 'about__icon' />              
-              <h5>Dean's List Recognition</h5>
-              <small>Current Overall GPA : 3.85</small>
+              <h4><b>Dean's List Recognition</b></h4>
+              <h6>Current Overall GPA : 3.85</h6>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className = 'about__icon' />              
-              <h5>Projects</h5>
-              <small>50+ Completed</small>
+              <h4><b>Work Experience</b></h4>
+              <h6>Software Engineer Intern</h6>
+              <h6>WSO2 Lanka (Pvt) Ltd</h6>
             </article>
           </div>
 
           <p>
-          As an IT undergraduate, I am passionate about software engineering and dedicated to expanding my knowledge and skills in the field. With a strong foundation in programming languages and problem-solving, I am eager to contribute to innovative projects and gain real-world experience through a software engineering internship.          </p>
+          As an IT undergraduate, I am eager to transition my robust academic learning into practical software engineering solutions. With a strong foundation in programming languages and software development practices, I am particularly keen on contributing to projects that leverage innovative technologies. I excel in environments that challenge my problem-solving capabilities and foster teamwork. </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
 

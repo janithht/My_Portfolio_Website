@@ -42,19 +42,59 @@ function Experience() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>Flutter</h4>
+              <h4>Typescript</h4>
                 <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+          </div>
+          
+          <div className='experience__frontend'>
+          <h3>Testing & Automation</h3>
+          <div className='experience__content'>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Serenity BDD</h4>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>Version Control: Git</h4>
+              <h4>Cucumber</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Performance (Jmeter)</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Go Profiling</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
+
+            <div className='experience__frontend'>
+            <h3>Version Controlling</h3>
+            <div className='experience__content'>
+              <article className='experience__details'>
+                <BsPatchCheckFill className='experience__details-icon' />
+                <div>
+                <h4>Git</h4>
+                  <small className='text-light'>Experienced</small>
+                </div>
+              </article>
+            </div>
+          </div>
         </div>
+    </div>
 
         {/* End of Front End */}
 
@@ -71,7 +111,21 @@ function Experience() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>Django</h4>
+              <h4>Java</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Javascript</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Typescript</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>
@@ -89,14 +143,48 @@ function Experience() {
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
+          </div>
+          <div className='experience__frontend'>
+          <h3>Cloud & DevOps</h3>
+          <div className='experience__content'>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>Other: AWS Services</h4>
-                <small className='text-light'>Basic</small>
+              <h4>Docker</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Kubernetes</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>AWS</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Jenkins</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Github Actions</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
+        </div>
+          
         </div>
       </div>
     </section>
